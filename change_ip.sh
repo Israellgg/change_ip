@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Defina o novo endereço IP, gateway e servidores DNS
-NEW_IP="192.168.199.130/24"
+NEW_IP="192.168.199.129/24"
 NEW_GATEWAY="192.168.199.5"
 NEW_DNS="192.168.0.4, 192.168.0.8"
 
